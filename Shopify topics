@@ -1,0 +1,122 @@
+========= shopify topics =============
+how to use Shopify cheatsheet 
+Shopify 2.0 sections 
+Shopify 2.0 sections and Snippets 
+Section settings development
+Shopify 2.0 blocks custom development
+Shopify json templates products
+Shopify json templates collections
+Shopify json templates blogs
+Shopify json templates pages
+Shopify liquid templates
+Shopify settings json schema 
+Shopify product sliders custom implement 
+Custom Font family integration  
+Shopify metafields creation and custom implement 
+Meta object in Shopify
+Theme content file Shopify 
+Translations in Shopify
+Email notifications changes in Shopify
+Custom Filters implement in collections 
+Swatches in Shopify 
+Shopify variant images custom code
+custom popup implement in Shopify
+Custom size chart based in metafields
+loops in Shopify
+
+=========== Theme setup ===========================
+NEW LAYOUT SETUP POINTS
+
+- color scheme setup (globally)
+- font family setup as per logo (globally)
+Header points.
+- logo update
+- fav icon logo update
+- mega menu setup
+- search filed add 
+- admin icon add
+Main page.
+- Add H1 tag atleast one time on home page
+- banner with Image slide + add vedio on slider
+- show best collection
+- show feature product with all options
+    (like swatch , subscriptions etc) 
+- vedio sections added ( with diffrent style)
+- newslatter sections 
+- show product review badges ( free app product review)
+Footer points.
+- show payment icon
+- copyright text
+- show privacy page in footer 
+- social icon 
+Collection page points.
+- show filters ( free app search & discovery)
+- show sorting system
+- show breadcrumbs
+- show 2nd image on hover
+- show quick view options 
+- show add to cart
+Product page points.
+- show breadcrumbs
+- Image gallery with thumbnails
+- zoom options
+- video acceptable in product gallery
+- product review
+- show swatch color 
+- buy now button add
+- short descriipition
+- customer review comment sections 
+- share button 
+- side cart show on click add to cart button
+
+
+Checkout page points.
+- logo update
+- one page checkout or step form checkout
+
+Cart page points.
+- add note field 
+-
+
+
+Extra points.
+- check site fully responsive
+- make all heading same font size 
+- compressed Image used 
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+===== shopify main point ========
+capture
+loop
+if else
+Tag bassed conditions
+--template
+--title
+-- contains
+swatches - file
+Metafield ---- list or single
+Metaobject 
+Assign
+Related Product ---- tag
+Json --- template
+
+
+----- js ----------------
+Click , change , addClass, remove class, trigger, onclick
+
+[ edit email template pakage slips ]
+
+//////////////////////////////////////////////////////////////////////
+
+================= Proper section create ================================
+
+faq section
+text with image and video
+testimonials
+tab section
+video slider
+
+
+///////////////////////////////////////////////////////////////
